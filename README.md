@@ -1,8 +1,6 @@
 - ola eu sou @moramedali
 -:+1:meu email de contato(lucs.fernandes.santos30@escola.pr.gov.br)
-- &#129396;&#65039; Eu estou interessado em aprende progamar novas linguagens.
-- &#129397;&#65039; Eu estou aprendendo programar recentemente a linguagem de JavaScript e Scrath
-- 📫 
-
-
-
+- &#129396;&#65039; Eu estou interessado em aprende progamar novas linguagen.
+-  ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+-  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+-       
